@@ -1,0 +1,16 @@
+# Flying Food Web Application (Laravel)
+
+[Flying Food Mobile App](https://github.com/FlyingTrowel/flying-food-mobile).
+
+ICT602
+RCDCS251 5B
+
+AIMAN BAZLI BIN ROSLAN 2023305751
+
+AIEMAN NUR HAKIM BIN ROSLAN 2023376281
+
+MUHAMMAD HAKIMI BIN SAMSURI 2023379837
+
+MUHAMMAD IRFANNUDDIN BIN GAFRI 2023375241
+
+Flying Food© 2024
